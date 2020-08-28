@@ -64,7 +64,7 @@ ul {
 }
 
 .container-section-1 {
-  margin-right: 30px;
+
 
   display: flex;
   justify-content: center;
@@ -97,6 +97,7 @@ ul {
 .footer_ardess {
   flex-direction: column;
   padding-top: 60px;
+  padding-left: 215px;
   
 }
 /* цвет основного текста #212121 */
@@ -240,7 +241,7 @@ ul {
 
 .section_4 {
   background-color: #f5f4fa;
-  margin-right: 30px;
+ 
   margin-top: 30px;
   padding-left: auto;
   padding-right: auto;
@@ -270,8 +271,9 @@ ul {
 .footer {
   color: #fff;
   background: #2F303A;
-  width: 1600px;
+  
 height: 252px;
+
 
 
 }
